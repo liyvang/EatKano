@@ -12,12 +12,11 @@ _🦌 网页小游戏 🥛_
 
 ## 简介
 
-小游戏：吃掉小鹿乃
+小游戏：dwb
 
 浏览量超10,000,000+
 
-线上版本:https://xingye.me/game/eatkano/index.php
-
+线上版本: https://opsorart.github.io/dwb/
 Github Page:https://arcxingye.github.io/EatKano/index.html
 
 ## 可选功能
